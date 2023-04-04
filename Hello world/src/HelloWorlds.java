@@ -5,6 +5,6 @@ public class HelloWorlds {
 		System.out.println("Hello World");
 		System.out.println("Hello his World");
 		System.out.println("Hello her World");
-		System.out.println("Hello you World");
+		System.out.println("Hello y World");
 	}
 }
